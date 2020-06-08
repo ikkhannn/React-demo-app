@@ -2,7 +2,7 @@ import React from 'react';
 import Dinner from './dinner';
 import './App.css';
 
-
+ 
 function App() {
   const name="imran";
   return (
