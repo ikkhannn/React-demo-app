@@ -1,6 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a simple react app which demonstrates the use of props with a parent and child component.
+
+deployed at : react-bootcamp-demo-app.surge.sh/
+
+
+This app is assignment 3 of the bootcamp.
 ## Available Scripts
+
 
 In the project directory, you can run:
 
